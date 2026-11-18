@@ -18,7 +18,7 @@
 
  ───────────────────────────────────────────
 
- now   sonar-crypto
+ now   lunne-ai
  web   <a href="https://alexandr-shalanin.github.io">alexandr-shalanin.github.io</a>
 
  professional prompt engineer™
